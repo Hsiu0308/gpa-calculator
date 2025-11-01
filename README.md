@@ -12,14 +12,16 @@
 
 ## 專案結構
 
+```
 project/
 ├── index.html # 網站主頁
 ├── app.js # 核心 JavaScript 檔案
 ├── styles/ # 樣式檔案
-│ ├── style.scss # SCSS 源碼
-│ ├── style.css # 編譯後的 CSS
-│ └── style.css.map # Source map 檔案
+│   ├── style.scss # SCSS 源碼
+│   ├── style.css # 編譯後的 CSS
+│   └── style.css.map # Source map 檔案
 └── math.jpg # 載入動畫背景圖
+```
 
 ## 💡 功能特色
 
