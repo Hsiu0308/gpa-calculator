@@ -62,7 +62,7 @@ sass --watch styles/style.scss styles/style.css
 
 ## 📝 作者
 
-Hensel Huang
+Hansel Huang
 
 ## 📄 授權
 
